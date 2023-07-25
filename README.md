@@ -1,16 +1,18 @@
 ### Hi there 👋
+This is Sheyda Safiallah! :woman_technologist: :sunflower:  \
+I love teaching myself new things. I started programming in high school, then learned about Computer Networks, Cybersecurity, and all the rest. \
+I studied Computer Engineering at the Shahrood University of Technology, and I loved it! \
 
-<!--
-**SheydaSafiallah/SheydaSafiallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Long story short, I'm interested in Cybersecurity and DevOps! :smiling_face_with_three_hearts:
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/PrhFiPMUxgPZZtpnk6/giphy.gif" width="250"/>
+</div>
 
-Here are some ideas to get you started:
+---
+<div align="center">
+  
+  ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SheydaSafiallah&theme=dark&background=000000)](https://git.io/streak-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheydaSafiallah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
