@@ -1,7 +1,6 @@
 ### Hi there 👋
 This is Sheyda Safiallah! :woman_technologist: :sunflower:  \
-I love teaching myself new things. I started programming in high school, then learned about Computer Networks, Cybersecurity, and all the rest. \
-I studied Computer Engineering at the Shahrood University of Technology, and I loved it! \
+I love teaching myself new things. I started programming in high school, then learned about Computer Networks, Cybersecurity, and all the rest. I studied Computer Engineering at the Shahrood University of Technology, and I loved it! \
 
 Long story short, I'm interested in Cybersecurity and DevOps! :smiling_face_with_three_hearts:
 <div id="header" align="right">
