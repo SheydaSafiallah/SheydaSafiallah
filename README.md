@@ -10,11 +10,10 @@ I love teaching myself new things. I started programming in high school, then le
 <div align="center">
   
   ### :fire: My Stats :
-<div>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sheydasafiallah)](https://git.io/streak-stats)
-</div>
-<div>
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheydaSafiallah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 </div>
