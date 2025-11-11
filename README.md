@@ -29,4 +29,4 @@ I hold a degree in Computer Engineering from Shahrood University of Technology, 
 
 ---
 
-> “Learning never exhausts the mind.” — Leonardo da Vinci
+> “Blessed are the forgetful, for they get the better even of their blunders.” — Friedrich Nietzsche
