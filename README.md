@@ -15,7 +15,7 @@ I hold a degree in Computer Engineering from Shahrood University of Technology, 
 
 ### 🔥 My GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sheydasafiallah&theme=tokyonight)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SheydaSafiallah)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheydaSafiallah&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
